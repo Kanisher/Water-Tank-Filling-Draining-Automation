@@ -110,4 +110,4 @@ Successfully developed a PLC-based control system concept for managing water tan
 **Project Type:** PLC-Based Automation  
 **Control System:** Manual & Automatic  
 **Programming Language:** Ladder Logic (LAD)  
-**Software:** [Add the PLC programming software used]
+**Software:** Siemens TIA & Factory IO
